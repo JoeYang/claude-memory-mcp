@@ -1,0 +1,69 @@
+{
+  "palace_path": "/home/joeyang/memory/.mempalace/palace",
+  "collection_name": "mempalace_drawers",
+  "topic_wings": [
+    "technology",
+    "science",
+    "finance",
+    "research",
+    "people",
+    "personal",
+    "lessons",
+    "decisions"
+  ],
+  "hall_keywords": {
+    "technology": [
+      "bazel", "cmake", "cargo", "cpp", "c++", "java", "python", "rust",
+      "typescript", "javascript", "trading", "exchange", "sequencer",
+      "order book", "market data", "fix", "sbe", "mdp", "ilink", "fixp",
+      "docker", "jni", "async", "concurrency", "mcp", "agent", "hook",
+      "worktree", "subagent", "networking", "tcp", "udp", "grpc",
+      "multicast", "spsc", "latency", "template", "build", "compile",
+      "dependency", "module.bazel", "bzlmod", "toolchain", "rules_cc",
+      "rules_java", "uv", "pip", "npm", "venv", "code", "function",
+      "api", "database", "server", "protocol", "sbe", "flatbuffers"
+    ],
+    "science": [
+      "physics", "math", "algorithm", "data structure", "complexity",
+      "statistics", "probability", "machine learning", "optimization",
+      "linear algebra", "calculus", "graph theory", "dynamic programming",
+      "big-o", "heuristic", "neural network", "regression"
+    ],
+    "finance": [
+      "equity", "valuation", "dcf", "lbo", "comps", "stock", "portfolio",
+      "risk", "geely", "byd", "macro", "geopolitical", "ev", "earnings",
+      "revenue", "margin", "dividend", "market cap", "pe ratio",
+      "investment", "fund", "analyst", "sector", "commodity", "bond",
+      "yield", "interest rate", "inflation", "gdp"
+    ],
+    "research": [
+      "research", "analysis", "report", "study", "benchmark",
+      "comparison", "evaluation", "architecture", "design", "review",
+      "investigation", "deep dive", "competitive", "survey", "whitepaper",
+      "literature", "finding", "conclusion"
+    ],
+    "people": [
+      "colleague", "mentor", "team", "manager", "interviewer",
+      "collaborator", "contact", "engineer", "developer", "partner",
+      "stakeholder", "reviewer", "lead"
+    ],
+    "personal": [
+      "preference", "workflow", "interview", "prep", "career", "learning",
+      "study", "certification", "style", "convention", "habit", "goal",
+      "resume", "job", "salary", "promotion", "skill gap", "practice",
+      "routine", "schedule"
+    ],
+    "lessons": [
+      "lesson", "mistake", "gotcha", "pitfall", "bug", "failure", "broke",
+      "regression", "debugging", "root cause", "never again", "warning",
+      "careful", "wrong", "error", "crash", "corrupt", "lost data",
+      "post-mortem", "incident", "outage", "workaround"
+    ],
+    "decisions": [
+      "decision", "chose", "tradeoff", "alternative", "why", "revisit",
+      "reconsider", "uncertain", "pros", "cons", "architecture decision",
+      "adr", "rationale", "option", "selected", "rejected", "compromise",
+      "pivot", "direction"
+    ]
+  }
+}
