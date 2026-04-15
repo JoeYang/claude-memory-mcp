@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+
+# MemPalace data (large, local-only)
+.mempalace/palace/
+.mempalace/*.sqlite3
+staging/
+staging2/
+
+# OS
+.DS_Store
